@@ -13,3 +13,9 @@ In this project, we explored the world of Baccarat, a card game similar to Black
 - <b>Eclipse IDE
 - <b>Git
 
+<h2>UML Screenshot </h2>
+<p align="center">
+Launch the utility: <br/>
+<img src="https://imgur.com/PI9HMTf.png" height="30%" width="30%" alt="Disk Sanitization Steps"/>
+<br />
+
